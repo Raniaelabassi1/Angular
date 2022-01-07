@@ -1,0 +1,5 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/541f6724-f9ce-480a-aea6-aca57a130fe4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/AppAngRania"
+}
